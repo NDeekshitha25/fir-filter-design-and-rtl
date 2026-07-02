@@ -1,0 +1,19 @@
+# MATLAB
+*.asv
+*.autosave
+*.slxc
+
+# Simulink cache
+slprj/
+*_ert_rtw/
+*_grt_rtw/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
